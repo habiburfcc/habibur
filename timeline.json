@@ -1,19 +1,19 @@
 {
     "title": {
         "media": {
-          "url": "//www.flickr.com/photos/tm_10001/2310475988/",
+          "url": "images/pikes_peak.jpg",
           "caption": "Whitney Houston performing on her My Love is Your Love Tour in Hamburg.",
           "credit": "flickr/<a href='http://www.flickr.com/photos/tm_10001/'>tm_10001</a>"
         },
         "text": {
-          "headline": "Whitney Houston<br/> 1963 - 2012",
+          "headline": "Trisha and Tuhin Anniversary<br/> 2015 - ",
           "text": "<p>Houston's voice caught the imagination of the world propelling her to superstardom at an early age becoming one of the most awarded performers of our time. This is a look into the amazing heights she achieved and her personal struggles with substance abuse and a tumultuous marriage.</p>"
         }
     },
     "events": [
       {
         "media": {
-          "url": "{{ static_url }}/img/examples/houston/family.jpg",
+          "url": "images/lake_tahoe.jpg",
           "caption": "Houston's mother and Gospel singer, Cissy Houston (left) and cousin Dionne Warwick.",
           "credit": "Cissy Houston photo:<a href='http://www.flickr.com/photos/11447043@N00/418180903/'>Tom Marcello</a><br/><a href='http://commons.wikimedia.org/wiki/File%3ADionne_Warwick_television_special_1969.JPG'>Dionne Warwick: CBS Television via Wikimedia Commons</a>"
         },
