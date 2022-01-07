@@ -6,8 +6,8 @@
           "credit": "TNT"
         },
         "text": {
-          "headline": "Trisha and Tuhin 6th Anniversary<br/> 2015 - ",
-          "text": "Wow, this is amazing, where did the six year go? Trisha always says I forget things, well, this is a journal that I intend to keep with stories. </p>"
+          "headline": "Trisha and Tuhin 6th Anniversary<br/> ",
+          "text": "Wow, this is amazing, where did the six year go? Trisha always says I forget things, well, this is a journal that I intend to keep with stories. I missed lot's of our stories- but I will put them all in here little by little :). I have put together snippets of our journey here on our 6th anniversary </p>"
         }
     },
     "events": [
@@ -25,13 +25,13 @@
         },
         "text": {
           "headline": "Trisha; Minding her own business",
-          "text": "<p>Ah..How life was so wondeful</p>"
+          "text": "<p>Ah..How life was so wonderful :P </p>"
         }
       },
       {
         "media": {
           "url": "images/Tuhin_2013.jpg",
-          "caption": "Tuhin-Minding his own business",
+          "caption": "Tuhin -Minding his own business",
           "credit": ""
         },
         "start_date": {
@@ -40,14 +40,14 @@
           "year": "2013"
         },
         "text": {
-          "headline": "Tuhin; Chilling",
+          "headline": "Tuhin ; Minding his own business",
           "text": "<p>Ah..How life was so wondeful</p>"
         }
       },
       {
         "media": {
           "url": "images/Marriage.jpg",
-          "caption": "Got Married!!",
+          "caption": "Got Married !!",
           "credit": ""
         },
         "start_date": {
@@ -56,8 +56,8 @@
           "year": "2016"
         },
         "text": {
-          "headline": "Marriage!BAM",
-          "text": "<p>Then, they got married</p>"
+          "headline": "Marriage ! BAM",
+          "text": "<p>Then, We decided to get married..now what ?? </p>"
         }
       },
       {
@@ -110,8 +110,72 @@
       },
       {
         "media": {
-          "url": "images/solvang_december_2017.jpg",
+          "url": "images/Berkley_September11_2016.jpg",
           "caption":"",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "9",
+          "day": "11",
+          "year": "2016"
+        },
+        "text": {
+          "headline": "UC Berkley",
+          "text": "<p>Impressed by the architecture of this wonderful instituion </p>"
+        }
+      },
+      {
+        "media": {
+          "url": "images/January15_2017_colorado.jpg",
+          "caption":"",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "1",
+          "day": "15",
+          "year": "2017"
+        },
+        "text": {
+          "headline": "Colorado",
+          "text": "<p> We visited Aspen colorado with our Family, lots of snow, some weather hardships, wonderful memories. Oh, we got robbed aroudn the same timeline, whew, that was a story to tell when I meet you nex time </p>"
+        }
+      },
+      {
+        "media": {
+          "url": "images/lake_tahoe_july_4_2017.jpg",
+          "caption":"",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "7",
+          "day": "4",
+          "year": "2017"
+        },
+        "text": {
+          "headline": "Lake Tahoe with Saiful Bhai and Family",
+          "text": "<p> We went to Lake Tahoe with Saiful Bhai, Urmi Apu, Prianka was there. First Boat Trip in Tahoe</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "images/camping_july_17_2017.jpg",
+          "caption": "",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "7",
+          "day": "17",
+          "year": "2017"
+        },
+        "text": {
+          "headline": "Camping",
+          "text": "<p>We spent 4 hours driving this camping destination, with BBQ, Adda, can't wait to go camping again </p>"
+        }
+      },
+      {
+        "media": {
+          "url": "images/solvang_december_2017.jpg",
+          "caption": "",
           "credit": ""
         },
         "start_date": {
@@ -123,8 +187,183 @@
           "headline": "Solvang",
           "text": "<p>We went to Solvang on our way back from LA , it was a nice Danish City </p>"
         }
+      },
+      {
+          "media": {
+            "url": "images/Beatles_cirque_de_sou_feb_23_2018.jpg",
+            "caption": "",
+            "credit": ""
+          },
+          "start_date": {
+            "month": "2",
+            "day": "23",
+            "year": "2018"
+          },
+          "text": {
+            "headline": "LAS Vegas Trip ",
+            "text": "<p> Ah Las Vegas !! lots of fun and pain :), our car stopped on the highway, hey, we survived. would like to go back again :) </p>"
+          }
+      },
+      {
+          "media": {
+            "url": "images/prianka_weeding_april_2018.jpg",
+            "caption": "",
+            "credit": ""
+          },
+          "start_date": {
+            "month": "4",
+            "day": "23",
+            "year": "2018"
+          },
+          "text": {
+            "headline": "Prianka Wedding ",
+            "text": "<p> We all went to Texas to celebrate Prianka's wedding. we were so happy to see Subho bhai and Prianka together </p>"
+          }
+      },
+      {
+          "media": {
+            "url": "images/eid_2018_june_17.jpg",
+            "caption": "",
+            "credit": ""
+          },
+          "start_date": {
+            "month": "6",
+            "day": "17",
+            "year": "2018"
+          },
+          "text": {
+            "headline": "EID 2018 ",
+            "text": "<p> It was at Rifat's Place- Trisha looks so beautful in this Saree</p>"
+          }
+      },
+      {
+          "media": {
+            "url": "images/febuary_4_2019_shasta_trip_1.jpg",
+            "caption": "",
+            "credit": ""
+          },
+          "start_date": {
+            "month": "2",
+            "day": "4",
+            "year": "2019"
+          },
+          "text": {
+            "headline": "Shasta Lake Trip ",
+            "text": "<p> Prianka and Shubhao bhai visited us and we went to Lake shashta , we played a lot of Sequence on the way, and we beat the girls like alot :) </p>"
+          }
+      },
+      {
+          "media": {
+            "url": "images/kolkata_june_2019.jpg",
+            "caption": "",
+            "credit": ""
+          },
+          "start_date": {
+            "month": "6",
+            "day": "6",
+            "year": "2019"
+          },
+          "text": {
+            "headline": "Kolkata Trip ",
+            "text": "<p> This is my first trip to India, we went to Shanti Niketon, we enjoyed wonderful food - good times, humid weather  </p>"
+          }
+      },
+      {
+          "media": {
+            "url": "images/eid_2019_june.jpg",
+            "caption": "",
+            "credit": ""
+          },
+          "start_date": {
+            "month": "6",
+            "day": "20",
+            "year": "2019"
+          },
+          "text": {
+            "headline": "Eid with Family ",
+            "text": "<p> After years, we were able to celebrate Eid with  Family</p>"
+          }
+      },
+      {
+          "media": {
+            "url": "images/hawaii_jan_2020.jpg",
+            "caption": "",
+            "credit": ""
+          },
+          "start_date": {
+            "month": "1",
+            "day": "1",
+            "year": "2020"
+          },
+          "text": {
+            "headline": "Hawaiiiiii",
+            "text": "<p> I was interviewing for job at that time - otherwise we would have enjoyed much more. I promise Trisha , we will go back there again, never seen such wonderful beaches in anywhere - and the tropical forest, and the pineapple, and so much more. </p>"
+          }
+      },
+      {
+          "media": {
+            "url": "images/hawaii_jan_2020_aloha.jpg",
+            "caption": "",
+            "credit": ""
+          },
+          "start_date": {
+            "month": "1",
+            "day": "1",
+            "year": "2020"
+          },
+          "text": {
+            "headline": "Hawaiiiiii - II",
+            "text": "<p> I was interviewing for job at that time - otherwise we would have enjoyed much more. I promise Trisha , we will go back there again, never seen such wonderful beaches in anywhere - and the tropical forest, and the pineapple, and so much more. </p>"
+          }
+      },
+      {
+          "media": {
+            "url": "images/jhinga_2021.jpg",
+            "caption": "",
+            "credit": ""
+          },
+          "start_date": {
+            "month": "6",
+            "day": "1",
+            "year": "2020"
+          },
+          "text": {
+            "headline": "Covid 19",
+            "text": "<p> We planned to go to Europe that year - yeah, we got the VISA and all, COVID happened. So, we decided to grow Jhinga, Potol Alu Kumra in your backyard. We will go there ------ </p>"
+          }
+      },
+      {
+          "media": {
+            "url": "images/audbita_2021_may.jpg",
+            "caption": "",
+            "credit": ""
+          },
+          "start_date": {
+            "month": "5",
+            "day": "1",
+            "year": "2021"
+          },
+          "text": {
+            "headline": "Pregnancy",
+            "text": "<p> Pregnancy was such stressful time - but we were overjoyed when we first saw litle girl's face in hospital bed</p>"
+          }
+      },
+      {
+          "media": {
+            "url": "images/audbita_2021_december.jpg",
+            "caption": "",
+            "credit": ""
+          },
+          "start_date": {
+            "month": "12",
+            "day": "12",
+            "year": "2021"
+          },
+          "text": {
+            "headline": "Audbita",
+            "text": "<p> Our little girl is now 3 months old, I can't wait to take her to all the places that Trisha and I went, this journey will continue....</p>"
+          }
       }
-
 
 
     ]
