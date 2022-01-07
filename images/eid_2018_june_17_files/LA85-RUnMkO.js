@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["m3VAarH"]); }
+
+__d("SearchCometGlobalSearchPhotosTabRoot.entrypoint",["JSResourceForInteraction","SearchCometResultsBase.entrypoint"],(function(a,b,c,d,e,f,g){"use strict";a={getPreloadProps:d("SearchCometResultsBase.entrypoint").getPreloadProps,root:c("JSResourceForInteraction")("SearchCometGlobalSearchPhotosTabRoot.react").__setRef("SearchCometGlobalSearchPhotosTabRoot.entrypoint")};g["default"]=a}),98);
