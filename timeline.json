@@ -7,58 +7,126 @@
         },
         "text": {
           "headline": "Trisha and Tuhin 6th Anniversary<br/> 2015 - ",
-          "text": "Wow, this is amazing, where did the six year go? Trisha always says I forget things, well, this is a journal that I intend to keep with stories. This By</p>",
+          "text": "Wow, this is amazing, where did the six year go? Trisha always says I forget things, well, this is a journal that I intend to keep with stories. </p>"
         }
     },
     "events": [
+
       {
         "media": {
-          "url": "images/lake_tahoe.jpg",
-          "caption": "Houston's mother and Gospel singer, Cissy Houston (left) and cousin Dionne Warwick.",
-          "credit": "Cissy Houston photo:<a href='http://www.flickr.com/photos/11447043@N00/418180903/'>Tom Marcello</a><br/><a href='http://commons.wikimedia.org/wiki/File%3ADionne_Warwick_television_special_1969.JPG'>Dionne Warwick: CBS Television via Wikimedia Commons</a>"
+          "url": "images/July_11_2012_Trisha.jpg",
+          "caption": "Trisha-Minding her own business",
+          "credit": ""
         },
         "start_date": {
-          "month": "8",
-          "day": "9",
-          "year": "1963"
-        },
-        "text": {
-          "headline": "A Musical Heritage",
-          "text": "<p>Born in New Jersey on August 9th, 1963, Houston grew up surrounded by the music business. Her mother is gospel singer Cissy Houston and her cousins are Dee Dee and Dionne Warwick.</p>"
-        }
-      },
-      {
-        "media": {
-          "url": "images/lake_tahoe.jpg",
-          "caption": "Houston's mother and Gospel singer, Cissy Houston (left) and cousin Dionne Warwick.",
-          "credit": "Cissy Houston photo:<a href='http://www.flickr.com/photos/11447043@N00/418180903/'>Tom Marcello</a><br/><a href='http://commons.wikimedia.org/wiki/File%3ADionne_Warwick_television_special_1969.JPG'>Dionne Warwick: CBS Television via Wikimedia Commons</a>"
-        },
-        "start_date": {
-          "month": "8",
-          "day": "9",
-          "year": "1975"
-        },
-        "text": {
-          "headline": "A Musical Heritage",
-          "text": "<p>Born in New Jersey on August 9th, 1963, Houston grew up surrounded by the music business. Her mother is gospel singer Cissy Houston and her cousins are Dee Dee and Dionne Warwick.</p>"
-        }
-      },
-      {
-        "media": {
-          "url": "//twitter.com/Blavity/status/851872780949889024",
-          "caption": "Houston, performing on Good Morning America in 2009.",
-          "credit": "<a href='http://commons.wikimedia.org/wiki/File%3AFlickr_Whitney_Houston_performing_on_GMA_2009_4.jpg'>Asterio Tecson</a> via Wikimedia"
-        },
-        "start_date": {
-          "month": "2",
+          "month": "7",
           "day": "11",
           "year": "2012"
         },
         "text": {
-          "headline": "Whitney Houston<br/> 1963-2012",
-          "text": "<p>Houston, 48, was discovered dead at the Beverly Hilton Hotel on  on Feb. 11, 2012. She is survived by her daughter, Bobbi Kristina Brown, and mother, Cissy Houston.</p>"
+          "headline": "Trisha; Minding her own business",
+          "text": "<p>Ah..How life was so wondeful</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "images/Tuhin_2013.jpg",
+          "caption": "Tuhin-Minding his own business",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "1",
+          "day": "1",
+          "year": "2013"
+        },
+        "text": {
+          "headline": "Tuhin; Chilling",
+          "text": "<p>Ah..How life was so wondeful</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "images/Marriage.jpg",
+          "caption": "Got Married!!",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "1",
+          "day": "7",
+          "year": "2016"
+        },
+        "text": {
+          "headline": "Marriage!BAM",
+          "text": "<p>Then, they got married</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "images/July6_2016_first_eid.jpg",
+          "caption":"",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "7",
+          "day": "6",
+          "year": "2016"
+        },
+        "text": {
+          "headline": "Internship in WalmartLabs",
+          "text": "<p>We spent our first eid on San Mateo,California, while I was doing my Internship in WalmartLabs. It was wonderful 3 months (; we used to fight a lot too :) ), but I do miss those time.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "images/September11_2016_internship_2.jpg",
+          "caption":"",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "7",
+          "day": "17",
+          "year": "2016"
+        },
+        "text": {
+          "headline": "Visit to SF",
+          "text": "<p>It was a wonderful day, we were so stupid to brought only light cloths.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "images/September11_2016_yosemite.jpg",
+          "caption":"",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "7",
+          "day": "18",
+          "year": "2016"
+        },
+        "text": {
+          "headline": "Yosemite",
+          "text": "<p>Visited Yosemite with Friends, yes, we fought that day because I don't want to take pictures , how stupide those fights are :) </p>"
+        }
+      },
+      {
+        "media": {
+          "url": "images/solvang_december_2017.jpg",
+          "caption":"",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "12",
+          "day": "18",
+          "year": "2017"
+        },
+        "text": {
+          "headline": "Solvang",
+          "text": "<p>We went to Solvang on our way back from LA , it was a nice Danish City </p>"
         }
       }
+
+
+
     ]
 }
 
